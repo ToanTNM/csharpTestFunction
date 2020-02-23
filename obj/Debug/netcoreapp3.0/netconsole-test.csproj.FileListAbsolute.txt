@@ -1,0 +1,11 @@
+f:\Dev\Test\netconsole-test\obj\Debug\netcoreapp3.0\netconsole-test.csprojAssemblyReference.cache
+f:\Dev\Test\netconsole-test\obj\Debug\netcoreapp3.0\netconsole-test.AssemblyInfoInputs.cache
+f:\Dev\Test\netconsole-test\obj\Debug\netcoreapp3.0\netconsole-test.AssemblyInfo.cs
+f:\Dev\Test\netconsole-test\bin\Debug\netcoreapp3.0\netconsole-test.exe
+F:\Dev\Test\netconsole-test\bin\Debug\netcoreapp3.0\netconsole-test.deps.json
+F:\Dev\Test\netconsole-test\bin\Debug\netcoreapp3.0\netconsole-test.runtimeconfig.json
+F:\Dev\Test\netconsole-test\bin\Debug\netcoreapp3.0\netconsole-test.runtimeconfig.dev.json
+f:\Dev\Test\netconsole-test\bin\Debug\netcoreapp3.0\netconsole-test.dll
+f:\Dev\Test\netconsole-test\bin\Debug\netcoreapp3.0\netconsole-test.pdb
+f:\Dev\Test\netconsole-test\obj\Debug\netcoreapp3.0\netconsole-test.dll
+f:\Dev\Test\netconsole-test\obj\Debug\netcoreapp3.0\netconsole-test.pdb
